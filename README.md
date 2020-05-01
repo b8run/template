@@ -1,1 +1,1 @@
-# template
+# template - site News
