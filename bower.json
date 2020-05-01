@@ -1,0 +1,21 @@
+{
+  "name": "template",
+  "homepage": "https://github.com/blopes08/template",
+  "authors": [
+    "blopes08 <bruno.soarez08@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
